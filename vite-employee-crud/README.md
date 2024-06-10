@@ -1,5 +1,13 @@
 # React + TypeScript + Vite
 
+# BasicCRUDReactApp
+A basic vite react template react app that implements CRUD operation of EmployeesNames
+
+App creation commands 
+1. npm create vite@latest vite-employee-crud --template react
+2. npm install
+3. npm run dev
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
