@@ -4,7 +4,6 @@ import EmployeePage from './Components/EmployeePage';
 
 function App() {
   const [employeeList, setEmployeeList] = useState<string[]>(['Yash', 'Vinod', 'Kranthi', 'Rushi']);
-  const [employee, setEmployee] = useState<string>();
 
   return (
     <>
